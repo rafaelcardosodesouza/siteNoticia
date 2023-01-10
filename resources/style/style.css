@@ -1,0 +1,37 @@
+/*Config global*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #fff url(../midia/fundo.png) repeat-x top left;
+}
+#container{
+    width: 750px;
+    margin: 0 auto;
+}
+#topo{
+    border: 1px solid red;
+    height: 150px;
+    padding-top: 20px;
+    background: url(../midia/detalhe-topo.png) no-repeat top right;
+}
+.logo{
+    width: 152px;
+    height: 66px;
+    background: url(../midia/logo.png) no-repeat top left;
+    text-indent: -3000px;
+}
+/*
+ul{
+    list-style-type: none;
+    padding-top: 45px;
+}
+li{
+    float: left;
+    padding: 5px;
+    margin: 5px;
+
+} */
